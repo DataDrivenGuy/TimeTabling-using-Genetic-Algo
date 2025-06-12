@@ -25,7 +25,7 @@ The project was originally developed as a mini‑project for the AI 201 course 
 
 ```bash
 # 1. Grab the repo
-git clone https://github.com/<your‑username>/timetabling_ga.git
+git clone https://github.com/DataDrivenGuy/TimeTabling-using-Genetic-Algo.git
 cd timetabling_ga
 
 # 2. (Recommended) create a virtual environment
