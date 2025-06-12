@@ -1,7 +1,6 @@
 # Class Timetabling with a Genetic Algorithm
 
 > **AI 201 – Final Mini‑Project**\
-> Julian Longbayan · June 2025
 
 This repository contains a complete, self‑contained implementation of a **genetic‑algorithm solver for the university class‑timetabling problem**.\
 Given a set of courses, rooms, professors, and constraints, the algorithm evolves a population of candidate schedules until it finds one that satisfies *all* hard constraints and minimises soft‑constraint violations.  The code base produces both **JSON** and **interactive HTML** reports so you can inspect the resulting timetable immediately in a browser.
