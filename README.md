@@ -84,16 +84,6 @@ It details the chromosome encoding, fitness formulation, and provides benchmark 
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the project and create your feature branch: `git checkout -b feature/my‑feature`.
-2. Commit your changes with clear messages.
-3. Open a Pull Request – make sure the unit tests still pass.
-
-Bug reports and enhancement suggestions are also welcome via the **Issues** tab.
-
----
-
 ## 📄 License
 
 This work is released under the **MIT License** – see the [LICENSE](LICENSE) file for details.
